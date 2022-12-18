@@ -41,6 +41,8 @@ export default function Table () {
   const handleOnDragEnd = (result) => {
     const { source, destination } = result
 
+    if (!destination) return null
+
     const newRows = Array.from(data.rows)
     const rowMoved = newRows.splice(source.index, 1)[0]
     newRows.splice(destination.index, 0, rowMoved)
