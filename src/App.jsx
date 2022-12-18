@@ -1,11 +1,15 @@
 import './App.css'
 import Board from "./kanvas-board/index.jsx";
+import Table from "./Table";
 
 
 function App() {
 
   return (
-    <Board />
+    <div>
+      <Board />
+      <Table />
+    </div>
   )
 }
 

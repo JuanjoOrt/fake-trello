@@ -1,0 +1,60 @@
+{
+  "columns": ["name", "address", "age", "country", "telephone"],
+  "rows": [
+    {
+      "id": 1,
+      "name": "Juanjo",
+      "address": "Calle de la cava",
+      "age": 28,
+      "country": "Spain",
+      "telephone": "656778811"
+    },
+    {
+      "id": 2,
+      "name": "Lucía",
+      "address": "Calle de argüelles",
+      "age": 24,
+      "country": "Spain",
+      "telephone": "676887755"
+    },
+    {
+      "id": 3,
+      "name": "Pedro",
+      "address": "Julian Fernandez",
+      "age": 22,
+      "country": "Spain",
+      "telephone": "767889922"
+    },
+    {
+      "id": 4,
+      "name": "Carlos",
+      "age": 22,
+      "country": "Spain",
+      "telephone": "656772211"
+    },
+    {
+      "id": 5,
+      "name": "Naiara",
+      "address": "Calle Kansas city",
+      "age": 45,
+      "country": "Spain",
+      "telephone": "565441122"
+    },
+    {
+      "id": 6,
+      "name": "Julian",
+      "address": "Julian camarillo",
+      "age": 76,
+      "country": "Spain",
+      "telephone": ""
+    },
+    {
+      "id": 7,
+      "name": "Laura",
+      "address": "Fernando el sabio",
+      "age": 20,
+      "country": "Italy",
+      "telephone": "656775544"
+    }
+  ]
+}
